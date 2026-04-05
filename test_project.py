@@ -42,5 +42,5 @@ def test_parse_message():
     assert project.parse_message("me: hi") == ["me", "hi"]
     assert project.parse_message("@me: hi") == ["me", "hi"]
     assert project.parse_message("me: hi:hi : ha") == ["me", "hi:hi : ha"]
-    assert project.parse_message("me hi") == [None, None]
+    assert project.parse_message("me hi") == ["", ""]
 
