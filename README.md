@@ -1,6 +1,6 @@
-# Commment Analyser for Ecamm
+# Commment Analyzer for Ecamm
 
-### Vidoe Demo: [link will follow](https://youtube.com)
+### Vidoe Demo: [here](https://youtu.be/G-QWKP7ouyE)
 
 ### Disclaimer
 
